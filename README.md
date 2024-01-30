@@ -1,2 +1,2 @@
-# CMPM-171-Deployment-Prototype
- The Following repo is to demeonstrate how we will utilize github pages to deploy our game
+# CMPM-171-Prototype
+ The Following repo is to demonstrate how we will utilize GitHub pages to deploy our game
